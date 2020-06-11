@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#toast-container {
+  min-width: 10%;
+  top: 5%;
+  right: 50%;
+  transform: translateX(50%) translateY(50%);
+}
